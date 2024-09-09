@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&color=89F705&width=435&lines=Ivan+Kolesnychenko)](https://git.io/typing-svg)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=koleso8)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=koleso8&theme=neon&card_width=492&card_height=170)](https://git.io/streak-stats)
 <!--
 **koleso8/koleso8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
