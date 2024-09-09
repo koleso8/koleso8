@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&width=435&lines=Hi%2C+I%60m+Ivan)](https://git.io/typing-svg) 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&color=89F705&width=435&lines=Ivan+Kolesnychenko)](https://git.io/typing-svg)
 
 
 <!--
