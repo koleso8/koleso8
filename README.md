@@ -1,4 +1,5 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&width=435&lines=Hi%2C+I%60m+Ivan)](https://git.io/typing-svg) 👋
+
 
 <!--
 **koleso8/koleso8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
