@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&color=006AFF&width=435&lines=Ivan+Kolesnychenko)](https://git.io/typing-svg)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=koleso8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![GitHub Streak](https://streak-stats.demolab.com?user=koleso8&theme=transparent&border_radius=7.8&card_width=492&card_height=170)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=koleso8&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koleso8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
